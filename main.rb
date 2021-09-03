@@ -1,2 +1,2 @@
-gem 'pg'
-p "Wenaa los cabrosss"
+
+p "Hello World"
